@@ -1,0 +1,1 @@
+{"version":3,"file":"conexao.js","sourceRoot":"","sources":["../../src/banco/conexao.ts"],"names":[],"mappings":";;;;;;AAAA,wDAAgC;AAEzB,KAAK,UAAU,QAAQ;IAC1B,MAAM,OAAO,GAAG,MAAM,kBAAQ,CAAC,aAAa,CAAC;QACrC,IAAI,EAAY,SAAS;QACzB,QAAQ,EAAQ,MAAM;QACtB,aAAa,EAAG,mBAAmB;KACtC,CAAC,CAAC;IAEP,OAAO,OAAO,CAAC;AACnB,CAAC;AARD,4BAQC"}
